@@ -40,3 +40,4 @@ python train.py --img 640 --batch 16 --epochs 3 --data taekwon.yaml --weights yo
 ```
 
 ## Run
+<img src="https://github.com/bert13069598/yolov5/blob/master/yolov5/runs/train/exp3/train_batch1.jpg">
