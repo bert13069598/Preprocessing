@@ -19,7 +19,7 @@ pip install -r requirements.txt  # install
 I got ordered only use male samples. 
 
 So extract them from raw samples.
-
+[Extract male](https://github.com/bert13069598/yolov5/blob/ba4a762e29d7afad63ebd6fb4b06b71d029b98e5/count.py#L7)
 ##
 
 ### Reference
@@ -38,3 +38,5 @@ So extract them from raw samples.
 ```python
 python train.py --img 640 --batch 16 --epochs 3 --data taekwon.yaml --weights yolov5s.pt
 ```
+
+## Run
