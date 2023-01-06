@@ -1,0 +1,7 @@
+path: ../datasets/taekwon/
+train: train/images
+val: val/images
+test:
+
+names:
+  0: man
