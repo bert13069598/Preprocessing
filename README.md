@@ -20,9 +20,19 @@ I got ordered only use male samples.
 
 So extract them from raw samples.
 
+##
+
+### Reference
 [Train Custom Data](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data)
 
+### Adapt label files
+[Change json to txt](https://github.com/bert13069598/yolov5/blob/ba4a762e29d7afad63ebd6fb4b06b71d029b98e5/count.py#L45)
 
+### Adapt img files
+[Resize size to 640x640](https://github.com/bert13069598/yolov5/blob/ba4a762e29d7afad63ebd6fb4b06b71d029b98e5/count.py#L66)
+
+### Train & Validation & Test
+[Split label&img](https://github.com/bert13069598/yolov5/blob/ba4a762e29d7afad63ebd6fb4b06b71d029b98e5/count.py#L86)
 
 ## Train
 ```python
